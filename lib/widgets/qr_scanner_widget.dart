@@ -223,11 +223,12 @@ class _QRScannerWidgetState extends State<QRScannerWidget> {
         );
       }
     } catch (e) {
+      debugPrint('Error loading image from gallery: $e');
       if (!mounted) return;
       ScaffoldMessenger.of(context).showSnackBar(
         SnackBar(
           content: Text(
-            '${AppLocalizations.of(context)!.error_loading_image}: $e',
+            AppLocalizations.of(context)!.error_loading_image,
           ),
         ),
       );
@@ -416,6 +417,7 @@ class _QRScannerWidgetState extends State<QRScannerWidget> {
                             size: 24,
                           ),
                           onPressed: _pickFromGallery,
+                          tooltip: AppLocalizations.of(context)!.qr_from_gallery_button,
                         ),
                       ),
 
