@@ -769,7 +769,7 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get delete_credentials_message =>
-      'Deselezionando questa opzione, le credenziali salvate per questo utente verranno eliminate.\\n\\nSei sicuro di voler continuare?';
+      'Deselezionando questa opzione, le credenziali salvate per questo utente verranno eliminate.\n\nSei sicuro di voler continuare?';
 
   @override
   String get delete_credentials_cancel => 'Annulla';
@@ -849,7 +849,7 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get create_wallet_detailed_instructions =>
-      'Per creare un nuovo portafoglio:\\n\\n1. Apri il tuo browser web\\n2. Accedi al tuo server LNBits\\n3. Effettua l\'accesso con il tuo account\\n4. Cerca il pulsante \"Crea portafoglio\"\\n5. Assegna un nome al tuo nuovo portafoglio\\n6. Torna a LaChispa e aggiorna i tuoi portafogli\\n\\nIl nuovo portafoglio apparirà automaticamente nella tua lista.';
+      'Per creare un nuovo portafoglio:\n\n1. Apri il tuo browser web\n2. Accedi al tuo server LNBits\n3. Effettua l\'accesso con il tuo account\n4. Cerca il pulsante \"Crea portafoglio\"\n5. Assegna un nome al tuo nuovo portafoglio\n6. Torna a LaChispa e aggiorna i tuoi portafogli\n\nIl nuovo portafoglio apparirà automaticamente nella tua lista.';
 
   @override
   String get fixed_float_loading => 'Caricamento Fixed Float...';
@@ -860,7 +860,7 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get fixed_float_webview_error =>
-      'WebView non disponibile su questa piattaforma.\\nAprirà nel browser esterno.';
+      'WebView non disponibile su questa piattaforma.\nAprirà nel browser esterno.';
 
   @override
   String get fixed_float_open_button => 'Apri Fixed Float';
@@ -886,7 +886,7 @@ class AppLocalizationsIt extends AppLocalizations {
 
   @override
   String get boltz_webview_error =>
-      'WebView non disponibile su questa piattaforma.\\nAprirà nel browser esterno.';
+      'WebView non disponibile su questa piattaforma.\nAprirà nel browser esterno.';
 
   @override
   String get boltz_open_button => 'Apri Boltz';

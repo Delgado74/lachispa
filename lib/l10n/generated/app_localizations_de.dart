@@ -767,7 +767,7 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get delete_credentials_message =>
-      'Durch das Deaktivieren dieser Option werden die gespeicherten Anmeldedaten für diesen Benutzer gelöscht.\\n\\nSind Sie sicher, dass Sie fortfahren möchten?';
+      'Durch das Deaktivieren dieser Option werden die gespeicherten Anmeldedaten für diesen Benutzer gelöscht.\n\nSind Sie sicher, dass Sie fortfahren möchten?';
 
   @override
   String get delete_credentials_cancel => 'Abbrechen';
@@ -846,7 +846,7 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get create_wallet_detailed_instructions =>
-      'Um eine neue Wallet zu erstellen:\\n\\n1. Öffnen Sie Ihren Webbrowser\\n2. Greifen Sie auf Ihren LNBits-Server zu\\n3. Melden Sie sich mit Ihrem Konto an\\n4. Suchen Sie nach der Schaltfläche \"Wallet erstellen\"\\n5. Vergeben Sie einen Namen für Ihre neue Wallet\\n6. Kehren Sie zu LaChispa zurück und aktualisieren Sie Ihre Wallets\\n\\nDie neue Wallet wird automatisch in Ihrer Liste angezeigt.';
+      'Um eine neue Wallet zu erstellen:\n\n1. Öffnen Sie Ihren Webbrowser\n2. Greifen Sie auf Ihren LNBits-Server zu\n3. Melden Sie sich mit Ihrem Konto an\n4. Suchen Sie nach der Schaltfläche \"Wallet erstellen\"\n5. Vergeben Sie einen Namen für Ihre neue Wallet\n6. Kehren Sie zu LaChispa zurück und aktualisieren Sie Ihre Wallets\n\nDie neue Wallet wird automatisch in Ihrer Liste angezeigt.';
 
   @override
   String get fixed_float_loading => 'Lade Fixed Float...';

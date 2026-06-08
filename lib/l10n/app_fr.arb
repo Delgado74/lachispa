@@ -216,7 +216,7 @@
   "saved_users_header": "Utilisateurs enregistrés",
   "tap_to_autocomplete_hint": "Appuyez pour compléter automatiquement le mot de passe",
   "delete_credentials_title": "Supprimer les identifiants",
-  "delete_credentials_message": "En décochant cette option, les identifiants enregistrés pour cet utilisateur seront supprimés.\\n\\nÊtes-vous sûr de vouloir continuer ?",
+  "delete_credentials_message": "En décochant cette option, les identifiants enregistrés pour cet utilisateur seront supprimés.\n\nÊtes-vous sûr de vouloir continuer ?",
   "delete_credentials_cancel": "Annuler",
   "delete_credentials_confirm": "Supprimer",
   "close_dialog": "Fermer",
@@ -254,7 +254,7 @@
   },
   "create_new_wallet_help": "Créer un nouveau portefeuille",
   "create_wallet_short_description": "Pour créer un nouveau portefeuille, accédez à votre panneau LNBits depuis le navigateur et utilisez l'option \"Créer un portefeuille\".",
-  "create_wallet_detailed_instructions": "Pour créer un nouveau portefeuille :\\n\\n1. Ouvrez votre navigateur web\\n2. Accédez à votre serveur LNBits\\n3. Connectez-vous avec votre compte\\n4. Recherchez le bouton \"Créer un portefeuille\"\\n5. Attribuez un nom à votre nouveau portefeuille\\n6. Retournez à LaChispa et actualisez vos portefeuilles\\n\\nLe nouveau portefeuille apparaîtra automatiquement dans votre liste.",
+  "create_wallet_detailed_instructions": "Pour créer un nouveau portefeuille :\n\n1. Ouvrez votre navigateur web\n2. Accédez à votre serveur LNBits\n3. Connectez-vous avec votre compte\n4. Recherchez le bouton \"Créer un portefeuille\"\n5. Attribuez un nom à votre nouveau portefeuille\n6. Retournez à LaChispa et actualisez vos portefeuilles\n\nLe nouveau portefeuille apparaîtra automatiquement dans votre liste.",
 
   "fixed_float_loading": "Chargement de Fixed Float...",
   "fixed_float_description": "Échangez des cryptomonnaies avec\ndes taux fixes et sans inscription",
