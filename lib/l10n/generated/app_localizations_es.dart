@@ -754,7 +754,7 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get delete_credentials_message =>
-      'Al desmarcar esta opción, las credenciales guardadas para este usuario serán eliminadas.\\n\\n¿Estás seguro de que quieres continuar?';
+      'Al desmarcar esta opción, las credenciales guardadas para este usuario serán eliminadas.\n\n¿Estás seguro de que quieres continuar?';
 
   @override
   String get delete_credentials_cancel => 'Cancelar';
@@ -834,7 +834,7 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get create_wallet_detailed_instructions =>
-      'Para crear una nueva billetera:\\n\\n1. Abre tu navegador web\\n2. Accede a tu servidor LNBits\\n3. Inicia sesión con tu cuenta\\n4. Busca el botón \"Crear billetera\"\\n5. Asigna un nombre a tu nueva billetera\\n6. Regresa a LaChispa y actualiza tus billeteras\\n\\nLa nueva billetera aparecerá automáticamente en tu lista.';
+      'Para crear una nueva billetera:\n\n1. Abre tu navegador web\n2. Accede a tu servidor LNBits\n3. Inicia sesión con tu cuenta\n4. Busca el botón \"Crear billetera\"\n5. Asigna un nombre a tu nueva billetera\n6. Regresa a LaChispa y actualiza tus billeteras\n\nLa nueva billetera aparecerá automáticamente en tu lista.';
 
   @override
   String get fixed_float_loading => 'Cargando Fixed Float...';

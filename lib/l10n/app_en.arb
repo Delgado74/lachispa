@@ -285,7 +285,7 @@
   "saved_users_header": "Saved users",
   "tap_to_autocomplete_hint": "Tap to autocomplete password",
   "delete_credentials_title": "Delete credentials",
-  "delete_credentials_message": "By unchecking this option, saved credentials for this user will be deleted.\\n\\nAre you sure you want to continue?",
+  "delete_credentials_message": "By unchecking this option, saved credentials for this user will be deleted.\n\nAre you sure you want to continue?",
   "delete_credentials_cancel": "Cancel",
   "delete_credentials_confirm": "Delete",
   "close_dialog": "Close",
@@ -323,7 +323,7 @@
   },
   "create_new_wallet_help": "Create new wallet",
   "create_wallet_short_description": "To create a new wallet, access your LNBits panel from the browser and use the \"Create wallet\" option.",
-  "create_wallet_detailed_instructions": "To create a new wallet:\\n\\n1. Open your web browser\\n2. Access your LNBits server\\n3. Log in with your account\\n4. Look for the \"Create wallet\" button\\n5. Assign a name to your new wallet\\n6. Return to LaChispa and refresh your wallets\\n\\nThe new wallet will appear automatically in your list.",
+  "create_wallet_detailed_instructions": "To create a new wallet:\n\n1. Open your web browser\n2. Access your LNBits server\n3. Log in with your account\n4. Look for the \"Create wallet\" button\n5. Assign a name to your new wallet\n6. Return to LaChispa and refresh your wallets\n\nThe new wallet will appear automatically in your list.",
 
   "fixed_float_loading": "Loading Fixed Float...",
   "fixed_float_description": "Exchange cryptocurrencies with\nfixed rates and no registration",
