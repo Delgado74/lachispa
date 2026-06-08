@@ -714,7 +714,7 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get receive_info_text =>
-      '• Partilhe o seu Endereço Lightning para receber pagamentos de qualquer quantia\\n\\n• O código QR resolve automaticamente para LNURL para máxima compatibilidade\\n\\n• Os pagamentos são recebidos diretamente nesta carteira';
+      '• Partilhe o seu Endereço Lightning para receber pagamentos de qualquer quantia\n\n• O código QR resolve automaticamente para LNURL para máxima compatibilidade\n\n• Os pagamentos são recebidos diretamente nesta carteira';
 
   @override
   String get payment_description_example => 'Ex: Pagamento por serviços';
@@ -755,7 +755,7 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get delete_credentials_message =>
-      'Ao desmarcar esta opção, as credenciais guardadas para este utilizador serão eliminadas.\\n\\nTem a certeza de que deseja continuar?';
+      'Ao desmarcar esta opção, as credenciais guardadas para este utilizador serão eliminadas.\n\nTem a certeza de que deseja continuar?';
 
   @override
   String get delete_credentials_cancel => 'Cancelar';
@@ -836,7 +836,7 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get create_wallet_detailed_instructions =>
-      'Para criar uma nova carteira:\\n\\n1. Abra o seu navegador web\\n2. Aceda ao seu servidor LNBits\\n3. Inicie sessão com a sua conta\\n4. Procure o botão \\\"Criar carteira\\\"\\n5. Atribua um nome à sua nova carteira\\n6. Regresse ao LaChispa e atualize as suas carteiras\\n\\nA nova carteira aparecerá automaticamente na sua lista.';
+      'Para criar uma nova carteira:\n\n1. Abra o seu navegador web\n2. Aceda ao seu servidor LNBits\n3. Inicie sessão com a sua conta\n4. Procure o botão \"Criar carteira\"\n5. Atribua um nome à sua nova carteira\n6. Regresse ao LaChispa e atualize as suas carteiras\n\nA nova carteira aparecerá automaticamente na sua lista.';
 
   @override
   String get fixed_float_loading => 'A carregar Fixed Float...';

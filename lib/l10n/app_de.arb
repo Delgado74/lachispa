@@ -216,7 +216,7 @@
   "saved_users_header": "Gespeicherte Benutzer",
   "tap_to_autocomplete_hint": "Tippen, um Passwort automatisch zu vervollständigen",
   "delete_credentials_title": "Anmeldedaten löschen",
-  "delete_credentials_message": "Durch das Deaktivieren dieser Option werden die gespeicherten Anmeldedaten für diesen Benutzer gelöscht.\\n\\nSind Sie sicher, dass Sie fortfahren möchten?",
+  "delete_credentials_message": "Durch das Deaktivieren dieser Option werden die gespeicherten Anmeldedaten für diesen Benutzer gelöscht.\n\nSind Sie sicher, dass Sie fortfahren möchten?",
   "delete_credentials_cancel": "Abbrechen",
   "delete_credentials_confirm": "Löschen",
   "close_dialog": "Schließen",
@@ -254,7 +254,7 @@
   },
   "create_new_wallet_help": "Neue Wallet erstellen",
   "create_wallet_short_description": "Um eine neue Wallet zu erstellen, greifen Sie über den Browser auf Ihr LNBits-Panel zu und verwenden Sie die Option \"Wallet erstellen\".",
-  "create_wallet_detailed_instructions": "Um eine neue Wallet zu erstellen:\\n\\n1. Öffnen Sie Ihren Webbrowser\\n2. Greifen Sie auf Ihren LNBits-Server zu\\n3. Melden Sie sich mit Ihrem Konto an\\n4. Suchen Sie nach der Schaltfläche \"Wallet erstellen\"\\n5. Vergeben Sie einen Namen für Ihre neue Wallet\\n6. Kehren Sie zu LaChispa zurück und aktualisieren Sie Ihre Wallets\\n\\nDie neue Wallet wird automatisch in Ihrer Liste angezeigt.",
+  "create_wallet_detailed_instructions": "Um eine neue Wallet zu erstellen:\n\n1. Öffnen Sie Ihren Webbrowser\n2. Greifen Sie auf Ihren LNBits-Server zu\n3. Melden Sie sich mit Ihrem Konto an\n4. Suchen Sie nach der Schaltfläche \"Wallet erstellen\"\n5. Vergeben Sie einen Namen für Ihre neue Wallet\n6. Kehren Sie zu LaChispa zurück und aktualisieren Sie Ihre Wallets\n\nDie neue Wallet wird automatisch in Ihrer Liste angezeigt.",
 
   "fixed_float_loading": "Lade Fixed Float...",
   "fixed_float_description": "Tauschen Sie Kryptowährungen mit\nfesten Kursen und ohne Registrierung",

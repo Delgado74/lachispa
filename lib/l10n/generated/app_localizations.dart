@@ -1503,7 +1503,7 @@ abstract class AppLocalizations {
   /// No description provided for @delete_credentials_message.
   ///
   /// In es, this message translates to:
-  /// **'Al desmarcar esta opción, las credenciales guardadas para este usuario serán eliminadas.\\n\\n¿Estás seguro de que quieres continuar?'**
+  /// **'Al desmarcar esta opción, las credenciales guardadas para este usuario serán eliminadas.\n\n¿Estás seguro de que quieres continuar?'**
   String get delete_credentials_message;
 
   /// No description provided for @delete_credentials_cancel.
@@ -1641,7 +1641,7 @@ abstract class AppLocalizations {
   /// No description provided for @create_wallet_detailed_instructions.
   ///
   /// In es, this message translates to:
-  /// **'Para crear una nueva billetera:\\n\\n1. Abre tu navegador web\\n2. Accede a tu servidor LNBits\\n3. Inicia sesión con tu cuenta\\n4. Busca el botón \"Crear billetera\"\\n5. Asigna un nombre a tu nueva billetera\\n6. Regresa a LaChispa y actualiza tus billeteras\\n\\nLa nueva billetera aparecerá automáticamente en tu lista.'**
+  /// **'Para crear una nueva billetera:\n\n1. Abre tu navegador web\n2. Accede a tu servidor LNBits\n3. Inicia sesión con tu cuenta\n4. Busca el botón \"Crear billetera\"\n5. Asigna un nombre a tu nueva billetera\n6. Regresa a LaChispa y actualiza tus billeteras\n\nLa nueva billetera aparecerá automáticamente en tu lista.'**
   String get create_wallet_detailed_instructions;
 
   /// No description provided for @fixed_float_loading.
