@@ -202,7 +202,7 @@
   "instant_payments_feature": "Pagamentos instantâneos",
   "favorite_server_feature": "Com o seu servidor favorito",
   
-  "receive_info_text": "• Partilhe o seu Endereço Lightning para receber pagamentos de qualquer quantia\\n\\n• O código QR resolve automaticamente para LNURL para máxima compatibilidade\\n\\n• Os pagamentos são recebidos diretamente nesta carteira",
+  "receive_info_text": "• Partilhe o seu Endereço Lightning para receber pagamentos de qualquer quantia\n\n• O código QR resolve automaticamente para LNURL para máxima compatibilidade\n\n• Os pagamentos são recebidos diretamente nesta carteira",
   
   "payment_description_example": "Ex: Pagamento por serviços",
   
@@ -216,7 +216,7 @@
   "saved_users_header": "Utilizadores guardados",
   "tap_to_autocomplete_hint": "Toque para preencher automaticamente a palavra-passe",
   "delete_credentials_title": "Eliminar credenciais",
-  "delete_credentials_message": "Ao desmarcar esta opção, as credenciais guardadas para este utilizador serão eliminadas.\\n\\nTem a certeza de que deseja continuar?",
+  "delete_credentials_message": "Ao desmarcar esta opção, as credenciais guardadas para este utilizador serão eliminadas.\n\nTem a certeza de que deseja continuar?",
   "delete_credentials_cancel": "Cancelar",
   "delete_credentials_confirm": "Eliminar",
   "close_dialog": "Fechar",
@@ -254,7 +254,7 @@
   },
   "create_new_wallet_help": "Criar nova carteira",
   "create_wallet_short_description": "Para criar uma nova carteira, aceda ao seu painel LNBits pelo navegador e use a opção \\\"Criar carteira\\\".",
-  "create_wallet_detailed_instructions": "Para criar uma nova carteira:\\n\\n1. Abra o seu navegador web\\n2. Aceda ao seu servidor LNBits\\n3. Inicie sessão com a sua conta\\n4. Procure o botão \\\"Criar carteira\\\"\\n5. Atribua um nome à sua nova carteira\\n6. Regresse ao LaChispa e atualize as suas carteiras\\n\\nA nova carteira aparecerá automaticamente na sua lista.",
+  "create_wallet_detailed_instructions": "Para criar uma nova carteira:\n\n1. Abra o seu navegador web\n2. Aceda ao seu servidor LNBits\n3. Inicie sessão com a sua conta\n4. Procure o botão \"Criar carteira\"\n5. Atribua um nome à sua nova carteira\n6. Regresse ao LaChispa e atualize as suas carteiras\n\nA nova carteira aparecerá automaticamente na sua lista.",
 
   "fixed_float_loading": "A carregar Fixed Float...",
   "fixed_float_description": "Troque criptomoedas com\ntaxas fixas e sem registo",
