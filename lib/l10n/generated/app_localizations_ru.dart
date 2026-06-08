@@ -709,7 +709,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get receive_info_text =>
-      '• Поделитесь своим Lightning адресом для получения платежей любой суммы\\n\\n• QR-код автоматически разрешается в LNURL для максимальной совместимости\\n\\n• Платежи поступают непосредственно в этот кошелек';
+      '• Поделитесь своим Lightning адресом для получения платежей любой суммы\n\n• QR-код автоматически разрешается в LNURL для максимальной совместимости\n\n• Платежи поступают непосредственно в этот кошелек';
 
   @override
   String get payment_description_example => 'Например: Оплата услуг';
@@ -749,7 +749,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get delete_credentials_message =>
-      'Сняв этот флажок, сохраненные учетные данные для этого пользователя будут удалены.\\\\n\\\\nВы уверены, что хотите продолжить?';
+      'Сняв этот флажок, сохраненные учетные данные для этого пользователя будут удалены.\n\nВы уверены, что хотите продолжить?';
 
   @override
   String get delete_credentials_cancel => 'Отмена';
@@ -826,18 +826,18 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get create_wallet_detailed_instructions =>
-      'Чтобы создать новый кошелек:\\\\n\\\\n1. Откройте веб-браузер\\\\n2. Войдите на ваш сервер LNBits\\\\n3. Войдите в свой аккаунт\\\\n4. Найдите кнопку \\\"Создать кошелек\\\"\\\\n5. Дайте имя вашему новому кошельку\\\\n6. Вернитесь в LaChispa и обновите ваши кошельки\\\\n\\\\nНовый кошелек автоматически появится в вашем списке.';
+      'Чтобы создать новый кошелек:\n\n1. Откройте веб-браузер\n2. Войдите на ваш сервер LNBits\n3. Войдите в свой аккаунт\n4. Найдите кнопку \"Создать кошелек\"\n5. Дайте имя вашему новому кошельку\n6. Вернитесь в LaChispa и обновите ваши кошельки\n\nНовый кошелек автоматически появится в вашем списке.';
 
   @override
   String get fixed_float_loading => 'Загрузка Fixed Float...';
 
   @override
   String get fixed_float_description =>
-      'Обменивайте криптовалюты по\\nфиксированным курсам без регистрации';
+      'Обменивайте криптовалюты по\nфиксированным курсам без регистрации';
 
   @override
   String get fixed_float_webview_error =>
-      'WebView недоступен на этой платформе.\\\\nОткроется во внешнем браузере.';
+      'WebView недоступен на этой платформе.\nОткроется во внешнем браузере.';
 
   @override
   String get fixed_float_open_button => 'Открыть Fixed Float';
@@ -859,11 +859,11 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get boltz_description =>
-      'Атомные свопы Bitcoin и Lightning\\nбез доверия';
+      'Атомные свопы Bitcoin и Lightning\nбез доверия';
 
   @override
   String get boltz_webview_error =>
-      'WebView недоступен на этой платформе.\\\\nОткроется во внешнем браузере.';
+      'WebView недоступен на этой платформе.\nОткроется во внешнем браузере.';
 
   @override
   String get boltz_open_button => 'Открыть Boltz';
