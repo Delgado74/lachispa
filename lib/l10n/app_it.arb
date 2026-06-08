@@ -216,7 +216,7 @@
   "saved_users_header": "Utenti salvati",
   "tap_to_autocomplete_hint": "Tocca per completare automaticamente la password",
   "delete_credentials_title": "Elimina credenziali",
-  "delete_credentials_message": "Deselezionando questa opzione, le credenziali salvate per questo utente verranno eliminate.\\n\\nSei sicuro di voler continuare?",
+  "delete_credentials_message": "Deselezionando questa opzione, le credenziali salvate per questo utente verranno eliminate.\n\nSei sicuro di voler continuare?",
   "delete_credentials_cancel": "Annulla",
   "delete_credentials_confirm": "Elimina",
   "close_dialog": "Chiudi",
@@ -254,11 +254,11 @@
   },
   "create_new_wallet_help": "Crea nuovo portafoglio",
   "create_wallet_short_description": "Per creare un nuovo portafoglio, accedi al tuo pannello LNBits dal browser e usa l'opzione \"Crea portafoglio\".",
-  "create_wallet_detailed_instructions": "Per creare un nuovo portafoglio:\\n\\n1. Apri il tuo browser web\\n2. Accedi al tuo server LNBits\\n3. Effettua l'accesso con il tuo account\\n4. Cerca il pulsante \"Crea portafoglio\"\\n5. Assegna un nome al tuo nuovo portafoglio\\n6. Torna a LaChispa e aggiorna i tuoi portafogli\\n\\nIl nuovo portafoglio apparirà automaticamente nella tua lista.",
+  "create_wallet_detailed_instructions": "Per creare un nuovo portafoglio:\n\n1. Apri il tuo browser web\n2. Accedi al tuo server LNBits\n3. Effettua l'accesso con il tuo account\n4. Cerca il pulsante \"Crea portafoglio\"\n5. Assegna un nome al tuo nuovo portafoglio\n6. Torna a LaChispa e aggiorna i tuoi portafogli\n\nIl nuovo portafoglio apparirà automaticamente nella tua lista.",
 
   "fixed_float_loading": "Caricamento Fixed Float...",
   "fixed_float_description": "Scambia criptovalute con\ntassi fissi e senza registrazione",
-  "fixed_float_webview_error": "WebView non disponibile su questa piattaforma.\\nAprirà nel browser esterno.",
+  "fixed_float_webview_error": "WebView non disponibile su questa piattaforma.\nAprirà nel browser esterno.",
   "fixed_float_open_button": "Apri Fixed Float",
   "fixed_float_error_opening": "Errore nell'apertura di Fixed Float: {error}",
   "@fixed_float_error_opening": {
@@ -273,7 +273,7 @@
 
   "boltz_loading": "Caricamento Boltz...",
   "boltz_description": "Scambi atomici Bitcoin e Lightning\nsenza fiducia",
-  "boltz_webview_error": "WebView non disponibile su questa piattaforma.\\nAprirà nel browser esterno.",
+  "boltz_webview_error": "WebView non disponibile su questa piattaforma.\nAprirà nel browser esterno.",
   "boltz_open_button": "Apri Boltz",
   "boltz_error_opening": "Errore nell'apertura di Boltz: {error}",
   "@boltz_error_opening": {
