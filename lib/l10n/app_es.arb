@@ -270,7 +270,7 @@
   "saved_users_header": "Usuarios guardados",
   "tap_to_autocomplete_hint": "Toca para autocompletar contraseña",
   "delete_credentials_title": "Eliminar credenciales",
-  "delete_credentials_message": "Al desmarcar esta opción, las credenciales guardadas para este usuario serán eliminadas.\\n\\n¿Estás seguro de que quieres continuar?",
+  "delete_credentials_message": "Al desmarcar esta opción, las credenciales guardadas para este usuario serán eliminadas.\n\n¿Estás seguro de que quieres continuar?",
   "delete_credentials_cancel": "Cancelar",
   "delete_credentials_confirm": "Eliminar",
   "close_dialog": "Cerrar",
@@ -308,7 +308,7 @@
   },
   "create_new_wallet_help": "Crear nueva billetera",
   "create_wallet_short_description": "Para crear una nueva billetera, accede a tu panel LNBits desde el navegador y usa la opción \"Crear billetera\".",
-  "create_wallet_detailed_instructions": "Para crear una nueva billetera:\\n\\n1. Abre tu navegador web\\n2. Accede a tu servidor LNBits\\n3. Inicia sesión con tu cuenta\\n4. Busca el botón \"Crear billetera\"\\n5. Asigna un nombre a tu nueva billetera\\n6. Regresa a LaChispa y actualiza tus billeteras\\n\\nLa nueva billetera aparecerá automáticamente en tu lista.",
+  "create_wallet_detailed_instructions": "Para crear una nueva billetera:\n\n1. Abre tu navegador web\n2. Accede a tu servidor LNBits\n3. Inicia sesión con tu cuenta\n4. Busca el botón \"Crear billetera\"\n5. Asigna un nombre a tu nueva billetera\n6. Regresa a LaChispa y actualiza tus billeteras\n\nLa nueva billetera aparecerá automáticamente en tu lista.",
 
   "fixed_float_loading": "Cargando Fixed Float...",
   "fixed_float_description": "Intercambia criptomonedas con\ntasas fijas y sin registro",

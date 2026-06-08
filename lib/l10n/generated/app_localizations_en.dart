@@ -745,7 +745,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get delete_credentials_message =>
-      'By unchecking this option, saved credentials for this user will be deleted.\\n\\nAre you sure you want to continue?';
+      'By unchecking this option, saved credentials for this user will be deleted.\n\nAre you sure you want to continue?';
 
   @override
   String get delete_credentials_cancel => 'Cancel';
@@ -823,7 +823,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get create_wallet_detailed_instructions =>
-      'To create a new wallet:\\n\\n1. Open your web browser\\n2. Access your LNBits server\\n3. Log in with your account\\n4. Look for the \"Create wallet\" button\\n5. Assign a name to your new wallet\\n6. Return to LaChispa and refresh your wallets\\n\\nThe new wallet will appear automatically in your list.';
+      'To create a new wallet:\n\n1. Open your web browser\n2. Access your LNBits server\n3. Log in with your account\n4. Look for the \"Create wallet\" button\n5. Assign a name to your new wallet\n6. Return to LaChispa and refresh your wallets\n\nThe new wallet will appear automatically in your list.';
 
   @override
   String get fixed_float_loading => 'Loading Fixed Float...';

@@ -770,7 +770,7 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get delete_credentials_message =>
-      'En décochant cette option, les identifiants enregistrés pour cet utilisateur seront supprimés.\\n\\nÊtes-vous sûr de vouloir continuer ?';
+      'En décochant cette option, les identifiants enregistrés pour cet utilisateur seront supprimés.\n\nÊtes-vous sûr de vouloir continuer ?';
 
   @override
   String get delete_credentials_cancel => 'Annuler';
@@ -850,7 +850,7 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get create_wallet_detailed_instructions =>
-      'Pour créer un nouveau portefeuille :\\n\\n1. Ouvrez votre navigateur web\\n2. Accédez à votre serveur LNBits\\n3. Connectez-vous avec votre compte\\n4. Recherchez le bouton \"Créer un portefeuille\"\\n5. Attribuez un nom à votre nouveau portefeuille\\n6. Retournez à LaChispa et actualisez vos portefeuilles\\n\\nLe nouveau portefeuille apparaîtra automatiquement dans votre liste.';
+      'Pour créer un nouveau portefeuille :\n\n1. Ouvrez votre navigateur web\n2. Accédez à votre serveur LNBits\n3. Connectez-vous avec votre compte\n4. Recherchez le bouton \"Créer un portefeuille\"\n5. Attribuez un nom à votre nouveau portefeuille\n6. Retournez à LaChispa et actualisez vos portefeuilles\n\nLe nouveau portefeuille apparaîtra automatiquement dans votre liste.';
 
   @override
   String get fixed_float_loading => 'Chargement de Fixed Float...';
