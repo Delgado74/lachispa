@@ -5,6 +5,23 @@ on:
     branches:
       - main
   workflow_dispatch:
+    inputs:
+      branch:
+        description: 'Rama a compilar'
+        required: false
+        default: 'main'
+        type: choice
+        options:
+          - main
+          - feat/46-facturas-sin-monto
+          - feat/117-valor-fiat-entonces-ahora
+          - feat/hce-receive
+          - feat/nfc-payment-only
+          - feat/total
+          - feature/invoice-key-clean
+          - feature/qr-from-gallery
+          - fix/clear-invoice-removes-from-history
+          - fix/mounted-guard-amount-screen
 
 permissions:
   contents: read
@@ -13,7 +30,23 @@ jobs:
   build-android:
     runs-on: ubuntu-latest
     steps:
+      - name: Determinar rama a compilar
+        id: compute_ref
+        env:
+          EVENT: ${{ github.event_name }}
+          DISPATCH_BRANCH: ${{ github.event.inputs.branch }}
+          PUSH_REF: ${{ github.ref }}
+        run: |
+          if [ "$EVENT" = "workflow_dispatch" ]; then
+            REF="${DISPATCH_BRANCH:-main}"
+          else
+            REF="${PUSH_REF#refs/heads/}"
+          fi
+          echo "ref=${REF}" >> "$GITHUB_OUTPUT"
+
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ steps.compute_ref.outputs.ref }}
 
       - name: Setup Java
         uses: actions/setup-java@v4
