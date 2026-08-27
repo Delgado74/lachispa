@@ -1,9 +1,6 @@
 name: Compilar APKs (fork)
 
 on:
-  push:
-    branches:
-      - main
   workflow_dispatch:
     inputs:
       branch:
@@ -30,23 +27,9 @@ jobs:
   build-android:
     runs-on: ubuntu-latest
     steps:
-      - name: Determinar rama a compilar
-        id: compute_ref
-        env:
-          EVENT: ${{ github.event_name }}
-          DISPATCH_BRANCH: ${{ github.event.inputs.branch }}
-          PUSH_REF: ${{ github.ref }}
-        run: |
-          if [ "$EVENT" = "workflow_dispatch" ]; then
-            REF="${DISPATCH_BRANCH:-main}"
-          else
-            REF="${PUSH_REF#refs/heads/}"
-          fi
-          echo "ref=${REF}" >> "$GITHUB_OUTPUT"
-
       - uses: actions/checkout@v4
         with:
-          ref: ${{ steps.compute_ref.outputs.ref }}
+          ref: ${{ inputs.branch }}
 
       - name: Setup Java
         uses: actions/setup-java@v4
